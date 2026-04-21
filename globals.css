@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optionnel : pour un défilement doux (smooth scroll) comme sur le site original */
+html {
+  scroll-behavior: smooth;
+  background-color: #050505;
+}
+
